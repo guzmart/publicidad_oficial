@@ -1,2 +1,4 @@
-# publicidad_oficial
-Investigación que analiza el gasto público en publicidad oficial y los índices de aprobación presidencial, durante el gobierno de Enrique Peña Nieto.
+# Publicidad Oficial Coyuntural: dime cómo me evalúas y te diré cuánto gasto
+En este repo se concentra el código, las gráficas y los datos usadas para el artículo en Nexos en el que analizo **la relación entre el gasto público en comunicación social y la aprobación presidencial, en el sexenio de Enrique Peña Nieto**.
+
+Con este objetivo, usé la base de datos ComSoc de la Secretaría de la Función Pública y las encuestas nacionales en vivienda de Parametría.
